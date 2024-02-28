@@ -1,0 +1,7 @@
+{
+    "token": "YOUR TOKEN",
+    "title": "Test",
+    "answers": ["test1", "test2"],
+    "webhookUrl": "https://example.com",
+    "port": "8080"
+}
